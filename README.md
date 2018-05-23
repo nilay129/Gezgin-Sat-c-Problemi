@@ -1,0 +1,2 @@
+# Gezgin-Sat-c-Problemi
+Bu projenin amacı, birçok uygulaması bulunan Gezgin Satıcı Problemi için yeni bir sezgisel algoritma önermek ve önerilen algoritmayı günlük hayatta uygulamaktır. Önerilen algoritma en yakın komşu algoritmasının ve genetik algoritmasının birer genelleştirilmesi olarak geliştirilmiştir.Ayrıca her iki algoritma arasındaki farklılıkların gözlemlenmesi de projeye dahil edilmiştir.
